@@ -1,8 +1,11 @@
 
 - Marya Crigler, Chief Appraiser: mcrigler@tcadcentral.org
+- Oralia Cortez Kueck, Executive Administrative Assistant (to the chief appraiser): okueck@tcadcentral.org
 - Henry Johnson, Taxpayer Liaison: taxpayerliaison@tcadcentral.org
 - Sarah Knippa, Records Coordinator: RecMgr@tcadcentral.org
 - Customer Inquiries and Assistance: tax_info@tcadcentral.org
+
+
 
 **Board Members**
 - Ms. Blanca Zamora-Garcia, City of Austin: ???
