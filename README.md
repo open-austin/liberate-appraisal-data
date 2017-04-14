@@ -1,7 +1,7 @@
 # liberate-appraisal-data
-*Join the ongoing discussion* with Open Austin on Slack: [http://slack.open-austin.org/](http://slack.open-austin.org/)
+Join the ongoing discussion with Open Austin on Slack: [http://slack.open-austin.org/](http://slack.open-austin.org/)
 
-Liberate Appraisal Data is an effort to open up the [Travis County Appraisal District (TCAD)](www.traviscad.org) appraisal roll data. The annual appraisal roll consists of valuations of every parcel in the county, and includes details about the age and square footage of property improvements, the size and value of lots, jurisdictional taxing authorities, and much more.
+*Liberate Appraisal Data* is an effort to open up the [Travis County Appraisal District (TCAD)](www.traviscad.org) appraisal roll data. The annual appraisal roll consists of valuations of every parcel in the county, and includes details about the age and square footage of property improvements, the size and value of lots, jurisdictional taxing authorities, and much more.
 
 We are asking TCAD to make the data available in an open, usable format. Key issues with the current data delivery process are as follows:
 
